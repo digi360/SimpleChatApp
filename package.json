@@ -1,0 +1,16 @@
+{
+  "name": "simple_chat_app",
+  "version": "1.0.0",
+  "description": "Simple Chat App",
+  "main": "chatapp.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "Sydney",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
