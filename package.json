@@ -17,7 +17,7 @@
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "gh-pages": "^2.0.0",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.5.0"
   },
   "devDependencies": {
     "assemble": "^0.24.3"
